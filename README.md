@@ -5,4 +5,4 @@
 Szerkesztek most nézzük
 >Új branchbe viszem ezt fel
 >Branch New isméét
-Ez meg a BrenchNw
+
